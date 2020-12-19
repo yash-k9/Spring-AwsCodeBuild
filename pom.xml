@@ -11,7 +11,7 @@
 	<groupId>com.github.projects</groupId>
 	<artifactId>Spring-AWS-CICD</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<name>Spring-AWS-CICD</name>
 	<description>CICD pipeline using Amazon CodeBuild</description>
 
