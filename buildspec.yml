@@ -15,4 +15,5 @@ phases:
 
 artifacts:
   files:
-    - target/deploy/spring-cicd.jar
+    - target/spring-cicd.jar
+  discard-paths: yes
