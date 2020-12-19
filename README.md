@@ -1,2 +1,2 @@
-# Spring-AwsCodeBuild
-CI/CD pipeline using AWS CodeBuild
+# Spring-AwsCodePipeline
+CI/CD pipeline using AWS CodePipeline
